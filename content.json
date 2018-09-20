@@ -1,0 +1,60 @@
+{
+  "name": "双篇阅读教科书",
+  "desc": "在SAT阅读的3种文章类型中，学生最头疼的要数SAT双篇文章了。在这一讲中，Cameron会带你一步一步熟悉双篇文章的题目设置，学习做题宗旨和做题次序。提升阅读基础是一个较为漫长的过程，而一个优秀的做题方法可以让题目正确率有立竿见影的提升。",
+  "keywords": ["阅读", "双篇"],
+  "cover": "cover.jpg",
+  "tags": ["编程", "基础", "入门"],
+  "lang": "",
+  "chapters": [
+    {
+      "name": "前言",
+      "content": "Chapter1/Chapter1.md",
+      "sections": [
+        {"name":"在学习之前"},
+        {"name":"题目资源"}
+      ]
+    },
+    {
+      "name": "Checkpoint 1",
+      "content": "Chapter2/Chapter2.md",
+      "sections": [
+        {"name":"双篇的文章题材选择"}
+      ]
+    },
+    {
+      "name": "Checkpoint 2",
+      "content": "Chapter3/Chapter3.md",
+      "sections": [
+        {"name":"题型解构"}
+      ]
+    },
+    {
+      "name": "Checkpoint 3",
+      "content": "Chapter4/Chapter4.md",
+      "sections": [
+        {"name":"方法论讲解"}
+      ]
+    },
+    {
+      "name": "Checkpoint 4",
+      "content": "Chapter5/Chapter5.md",
+      "sections": [
+        {"name":"Checkpoint 4"}
+      ]
+    },
+    {
+      "name": "Checkpoint 5",
+      "content": "Chapter6/Chapter6.md",
+      "sections": [
+        {"name":"示范篇章讲解2"}
+      ]
+    },
+    {
+      "name": "Checkpoint 6",
+      "content": "Chapter7/Chapter7.md",
+      "sections": [
+        {"name":"方法论总结 & FAQ解答"}
+      ]
+    }
+  ]
+}
