@@ -10,4 +10,4 @@
 -----
 以下是三篇双篇文章题目资源，如果之前不熟悉或没有完成过真正的SAT双篇文章，建议先进行两次实践。
 
-https://pan.baidu.com/s/1jtHZpVLi0-YLoZ9YZ8AyBg
+[点击下载题目资源](https://pan.baidu.com/s/1jtHZpVLi0-YLoZ9YZ8AyBg)
